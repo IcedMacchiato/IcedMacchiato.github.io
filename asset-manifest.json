@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f0bbec84.js",
+    "static/media/darktheme.mp4": "/static/media/darktheme.440cc5373d65d0ececb2.mp4",
+    "static/media/lighttheme.mp4": "/static/media/lighttheme.671cae60efc79ddcc7dd.mp4",
+    "index.html": "/index.html",
+    "main.f0bbec84.js.map": "/static/js/main.f0bbec84.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f0bbec84.js"
+  ]
+}
